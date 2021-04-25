@@ -7,3 +7,5 @@
 Population Parameters: Mean=120 Sample Parameters: n=80, Mean=130, SD=40, df=80-1=79 1-sample 1-tail ttest 
 
 Assume Null Hypothesis Ho as Avg spending <= $120. Thus Alternate Hypothesis Ha as Avg spending > $120.
+
+As (p-value = 0.014) < (α = 0.05); Reject Null Hypothesis Thus Avg spending > $120; we can go ahead and launch Loyality program.
